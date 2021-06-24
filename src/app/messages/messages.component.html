@@ -1,0 +1,7 @@
+<div *ngIf="messageService.mensajes.length">
+
+  <h2>Mensajes</h2>
+  <button class="clear" (click)="messageService.borrar()"> Borrar mensajes </button>
+  <div *ngFor='let mensaje of messageService.mensajes'> {{mensaje}} </div>
+
+</div>

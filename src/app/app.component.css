@@ -1,0 +1,26 @@
+h1 {
+  color: #369;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 250%;
+}
+
+h2, h3 {
+  color: #444;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: ligther; /*El font-weight define el nivel de boldness o negrita del texto*/
+}
+
+body{
+   margin: 2em;
+}
+
+/*El input[type="text"] es para definir el estilo de un recuadro que recibe inputs de texto*/
+body, input[type="text"], button {
+  color: #333;
+  font-family: 'Cambria Math', Georgia, serif;
+}
+
+/*Esto pone el estilo en todo otro lugar de la pagina*/
+* {
+   font-family: Arial, Helvetica, sans-serif;
+}
