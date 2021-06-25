@@ -1,2 +1,7 @@
-# angular-tour-of-heroes2
- Proyecto inicial en angular con routing, y requests a in-memory db.
+# ANGULAR - Tour of Heroes
+Proyecto desarrollado con Angular para realizar un front que permite Alta, Baja y Modificación de Héroes.
+
+Se utilizó: 
+- HTML
+- CSS
+- TypeScript
