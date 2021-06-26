@@ -5,3 +5,11 @@ Se utilizó:
 - HTML
 - CSS
 - TypeScript
+
+# Visuales
+
+### Vista de dashboard
+![tour1](images/Tour1.png)
+
+### Vista de heroes
+![tour2](images/Tour2.png)
